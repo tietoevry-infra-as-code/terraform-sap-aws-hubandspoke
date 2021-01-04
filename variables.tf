@@ -23,5 +23,5 @@ variable "scenario" {
 }
 
 variable "public_key" {
-  default = "C:/Users/kholevij/Downloads/21Dec2020.pem"
+  default = "21Dec2020.pem"
 }
