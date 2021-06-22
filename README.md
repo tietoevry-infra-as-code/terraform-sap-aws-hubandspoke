@@ -1,3 +1,5 @@
+> ## This repository is no longer maintained actively. Please visit https://github.com/kumarvna?tab=repositories for the latest updates.
+
 # AWS VPC with Transit Gateway Hub & Spoke Model
 
 ## Prerequisites
